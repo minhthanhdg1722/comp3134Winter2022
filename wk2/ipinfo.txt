@@ -1,0 +1,104 @@
+IPv4 address for pho90.ca
+Domain Name Server IP: 173.209.38.35IP Address Location Information for 211.45.27.231
+City: Seoul
+State: Seoul-teukbyeolsi
+Country: Korea (Republic of)
+Postal Code: 06030
+Time Zone: +09:00
+Host Info for 211.45.27.231
+ASN: 6619
+ISP: SamsungSDS Inc.
+Host Name: 211.45.27.231
+Domain: samsung.com
+
+City: London
+State: England
+Country: United Kingdom of Great Britain and Northern Ireland
+Postal Code: WC2N
+Time Zone: +00:00
+Host Info for 149.154.167.99
+ASN: 62041
+ISP: Telegram Messenger Network
+Host Name: 149.154.167.99
+Domain: telegram.org
+
+
+City: Miami
+State: Florida
+Country: United States of America
+Postal Code: 33010
+Time Zone: -05:00
+Host Info for 65.8.249.106
+ASN: 14618
+ISP: Amazon.com Inc.
+Host Name: server-65-8-249-106.mia3.r.cloudfront.net
+Domain: amazon.com
+
+
+Domain Name: dell.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 143.166.135.105
+
+Geolocation: US (United States), TX, Texas, 78682 Round Rock - Google Maps
+
+Reverse DNS entry: not found
+
+Domain Check
+
+Domain Name: dell.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: DELL.COM
+Registry Domain ID: 1978972_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net
+Updated Date: 2018-04-16T21:36:51Z
+Creation Date: 1988-11-22T05:00:00Z
+Registry Expiry Date: 2024-11-21T05:00:00Z
+Registrar: SafeNames Ltd.
+Registrar IANA ID: 447
+
+
+
+Domain Name: nokia.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 162.13.40.196
+
+Geolocation: GB (United Kingdom), N/A, N/A, N/A N/A - Google Maps
+
+Reverse DNS entry: not found
+
+Domain Check
+
+Domain Name: nokia.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: NOKIA.COM
+Registry Domain ID: 1492333_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-06-08T09:39:43Z
+Creation Date: 1991-07-11T04:00:00Z
+Registry Expiry Date: 2022-07-10T04:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS.NOKIA.COM
+Name Server: NS2.NOKIA.COM
+Name Server: NS3.NOKIA.COM
+Name Server: NS4.NOKIA.COM
+Name Server: NS5.NOKIA.COM

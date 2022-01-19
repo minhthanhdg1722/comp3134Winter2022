@@ -1,0 +1,16 @@
+(base) duongthanh@iMac-cua-Duong wk2 % traceroute facebook.com
+traceroute to facebook.com (31.13.80.36), 64 hops max, 52 byte packets
+ 1  10.0.0.1 (10.0.0.1)  4.835 ms  4.011 ms  4.154 ms
+ 2  cpeac202e047873-cmac202e047870.cpe.net.cable.rogers.com (173.32.52.1)  15.762 ms  15.041 ms  13.752 ms
+ 3  24.156.135.25 (24.156.135.25)  33.314 ms  19.183 ms  13.940 ms
+ 4  3009-cgw01.wlfdle.rmgt.net.rogers.com (69.63.248.181)  13.635 ms  17.195 ms  14.553 ms
+ 5  209.148.235.214 (209.148.235.214)  17.491 ms  14.755 ms  15.194 ms
+ 6  ae8.pr02.yyz1.tfbnw.net (157.240.70.180)  15.301 ms  13.688 ms  16.056 ms
+ 7  po102.psw04.yyz1.tfbnw.net (129.134.35.45)  14.386 ms
+    po102.psw03.yyz1.tfbnw.net (129.134.35.43)  19.115 ms
+    po102.psw01.yyz1.tfbnw.net (129.134.35.39)  15.889 ms
+ 8  173.252.67.59 (173.252.67.59)  14.621 ms
+    157.240.38.65 (157.240.38.65)  15.463 ms
+    173.252.67.123 (173.252.67.123)  28.086 ms
+ 9  edge-star-mini-shv-01-yyz1.facebook.com (31.13.80.36)  13.991 ms  15.662 ms  13.213 ms
+

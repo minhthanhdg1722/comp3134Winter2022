@@ -1,0 +1,20 @@
+(base) duongthanh@iMac-cua-Duong wk2 % ping 165.22.235.67
+PING 165.22.235.67 (165.22.235.67): 56 data bytes
+64 bytes from 165.22.235.67: icmp_seq=0 ttl=55 time=16.267 ms
+64 bytes from 165.22.235.67: icmp_seq=1 ttl=55 time=19.523 ms
+64 bytes from 165.22.235.67: icmp_seq=2 ttl=55 time=19.254 ms
+64 bytes from 165.22.235.67: icmp_seq=3 ttl=55 time=21.758 ms
+64 bytes from 165.22.235.67: icmp_seq=4 ttl=55 time=16.059 ms
+64 bytes from 165.22.235.67: icmp_seq=5 ttl=55 time=17.048 ms
+64 bytes from 165.22.235.67: icmp_seq=6 ttl=55 time=22.432 ms
+64 bytes from 165.22.235.67: icmp_seq=7 ttl=55 time=19.327 ms
+64 bytes from 165.22.235.67: icmp_seq=8 ttl=55 time=19.797 ms
+64 bytes from 165.22.235.67: icmp_seq=9 ttl=55 time=23.361 ms
+64 bytes from 165.22.235.67: icmp_seq=10 ttl=55 time=23.373 ms
+64 bytes from 165.22.235.67: icmp_seq=11 ttl=55 time=24.229 ms
+64 bytes from 165.22.235.67: icmp_seq=12 ttl=55 time=15.876 ms
+64 bytes from 165.22.235.67: icmp_seq=13 ttl=55 time=16.684 ms
+^C
+--- 165.22.235.67 ping statistics ---
+14 packets transmitted, 14 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 15.876/19.642/24.229/2.869 ms
