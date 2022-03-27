@@ -1,0 +1,3 @@
+The <script> tag is used to embed a client-side script (JavaScript)
+
+An HTML entity is a piece of text ("string") that begins with an ampersand ( & ) and ends with a semicolon ( ; ) .
